@@ -17,7 +17,7 @@
 - Install the Google Client Library
 `sudo pip3 install --upgrade google-api-python-client`
 
-- Run `python3 custom_mail.py` in the send_mail directory to login with the used account for the first time.
+- Run `python3 custom.py` in the send_mail directory to login with the used account for the first time.
 
 ### Usage
 - Once the Google account is setup, run the server ( `python3 manage.py runserver 8000` ) normally.
